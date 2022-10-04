@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "tong.pdf" ,title: "CV", icon: home}
+  - {file: "/tong.pdf" ,title: "CV", icon: home}
   - {file: "寶逼的帳號" ,URL: https://mobile.twitter.com/got7}
   - {file: "部落格" ,file: "/blog.md"}
 
