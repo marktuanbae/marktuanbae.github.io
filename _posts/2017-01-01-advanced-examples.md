@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "GOT7回歸啦!"
 mathjax: true
 layout: post
 categories: media
